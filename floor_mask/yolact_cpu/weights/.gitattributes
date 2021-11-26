@@ -1,0 +1,1 @@
+yolact_plus_resnet50_floor_1249_30000.pth filter=lfs diff=lfs merge=lfs -text
