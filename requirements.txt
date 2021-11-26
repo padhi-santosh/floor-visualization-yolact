@@ -1,15 +1,15 @@
+torchvision
+pytorch >=1.0.1
 Django==3.0.8
 cython
-#torchvision
-#pytorch >=1.0.1
 pillow
 PyQt5
 pycocotools
 opencv-python
 matplotlib
-pytorch-cpu
-torchvision-cpu
-pytorch
+#pytorch-cpu
+#torchvision-cpu
+#pytorch
 #torch==1.10.0+cpu 
 #torchvision==0.11.1+cpu 
 #torchaudio==0.10.0+cpu 
