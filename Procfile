@@ -1,1 +1,1 @@
-web: gunicorn main_app.wsgi:application --log-file -
+web: gunicorn django_yolact.wsgi:application --log-file -
