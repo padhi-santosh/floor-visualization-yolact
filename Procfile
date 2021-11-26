@@ -1,1 +1,1 @@
-web: gunicorn django_yolact.wsgi
+web: gunicorn django_yolact.wsgi:application
