@@ -8,3 +8,4 @@ PyQt5
 pycocotools
 opencv-python
 matplotlib
+gunicorn
