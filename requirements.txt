@@ -9,3 +9,4 @@ pycocotools
 opencv-python
 matplotlib
 gunicorn
+whitenoise
