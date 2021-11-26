@@ -1,0 +1,14 @@
+<!--
+{{upload_img}} 
+{{mask_img}} 
+-->
+
+
+<form action='upload' method="post" enctype="multipart/form-data">
+	{% csrf_token %}
+	<input type="file" name="image">
+	<input type="submit" value="upload file">
+	
+</form>
+
+<img src="{{mask_img}}", width="600" height="600">
